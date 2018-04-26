@@ -1,0 +1,10 @@
+{
+    "name": "root/codeigniter2-php5.5",
+    "authors": [
+        {
+            "name": "Łukasz Śmiałowski",
+            "email": "luksmialowski@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "name": "vtlfokin/codeigniter",
+        "version": "2.2.6.4",
+        "version_normalized": "2.2.6.4",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/vtlfokin/CodeIgniter.git",
+            "reference": "4d48fcff8ad3d73afd5649112bf8d92ce557a507"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/vtlfokin/CodeIgniter/zipball/4d48fcff8ad3d73afd5649112bf8d92ce557a507",
+            "reference": "4d48fcff8ad3d73afd5649112bf8d92ce557a507",
+            "shasum": ""
+        },
+        "time": "2018-02-27 04:10:46",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Vtlfokin\\CodeIgniter\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fok",
+                "email": "vtlfokin@gmail.com"
+            }
+        ],
+        "description": "Fork CodeIgniter2",
+        "homepage": "https://github.com/vtlfokin/CodeIgniter",
+        "keywords": [
+            "CodeIgniter2"
+        ]
+    }
+]
